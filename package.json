@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/skpm/querystring#readme",
   "devDependencies": {
-    "@skpm/test-runner": "^0.3.13"
+    "@skpm/test-runner": "^0.4.1"
   }
 }
